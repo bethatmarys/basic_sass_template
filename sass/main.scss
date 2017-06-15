@@ -1,0 +1,27 @@
+// VENDORS -----------------------------
+@import 'sass\vendors\_normalize.scss';
+@import 'sass\vendors\_mox.scss';
+
+// LAYOUT -----------------------------
+@import 'sass\layout\_sidebar.scss';
+@import 'sass\layout\_header.scss';
+@import 'sass\layout\_grid.scss';
+@import 'sass\layout\_footer.scss';
+@import 'sass\layout\_body.scss';
+
+// COMPONENTS -----------------------------
+@import 'sass\components\dropdown.scss';
+@import 'sass\components\carousel.scss';
+@import 'sass\components\buttons.scss';
+@import 'sass\components\_media.scss';
+
+// BASES -----------------------------
+@import 'sass\base\_reset.scss';
+@import 'sass\base\_typography.scss';
+@import 'sass\base\_colors.scss';
+
+// ABSTRACTS -----------------------------
+@import 'sass\abstracts\_variables.scss';
+@import 'sass\abstracts\_placeholders.scss';
+@import 'sass\abstracts\_placeholders.scss';
+@import 'sass\abstracts\_functions.scss';
